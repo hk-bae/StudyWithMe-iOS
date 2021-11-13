@@ -1,0 +1,6 @@
+framework module Pods_StudyWithMe {
+  umbrella header "Pods-StudyWithMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
